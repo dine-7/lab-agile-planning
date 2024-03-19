@@ -7,12 +7,10 @@ assignees: ''
 
 ---
 
-As a marketing manager
-I need a list of customer names and emails
-So that i can notify them of marketing promotions
+**As a** 
+**I need** 
+**So that** 
 
 Assumptions and details
-we maintain customer emails
-customers have opted-in promotions
 
 Acceptance criteria
